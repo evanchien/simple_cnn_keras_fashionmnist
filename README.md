@@ -497,7 +497,7 @@ print("Accuracy of test set is", accuracy)
     Accuracy of test set is 0.8991
 
 
-# release GPU memory
+# Release GPU memory
 - Sometimes, after several times training, I see a warining of running out of GPU's memory
 
 
